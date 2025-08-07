@@ -24,3 +24,86 @@ video {
 }
 
 /*==================Student code 7 ===================*/
+footer{
+    margin: 0px;
+    padding:30px;
+    background-color: black;
+    font-weight: lighter;
+    font-size: 0.9em;
+    color: #999999;
+}
+
+ol > li{
+    margin: 15px 0;
+    text-align: left;
+    list-style-position: inside;
+}
+
+ol{
+    margin: 0 auto;
+    width: 210px;
+}
+
+#ordering-heading{
+    font-size: 2.8em;
+}
+section > div{
+    display: inline-block;
+    width: 30%;
+
+}
+
+section > img{
+    width: 50%;
+}
+
+
+section{
+    margin: 60px 0 0 0 ;
+    padding: 40px;
+    background-color: rgb(41, 40, 40);
+}
+
+.choices > ul{
+    list-style-type: circle;
+}
+
+
+
+.choices{
+    display: inline-block;
+    vertical-align: top;
+    margin: 30px;
+    padding: 5px 30px;
+    width: 210px;
+    border-radius: 20px;
+    text-align: left;
+    color: black;
+    background-color: white;
+}
+
+
+
+
+   header{
+    padding: 60px 0;
+    background-image: url("images/header-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}    
+
+header > img {
+    width: 500px;
+}
+
+
+
+
+
+
+
+
+ul{
+    list-style-type: circle;
+}
